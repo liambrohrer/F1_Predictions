@@ -1,0 +1,417 @@
+{
+    "last_updated": "2026-11-22T15:59:10.225888+00:00",
+    "latest_race": {
+        "race_name": "Las Vegas Grand Prix",
+        "year": 2026,
+        "round": 21,
+        "date": "2026-11-22T00:00:00",
+        "predictions": [
+            {
+                "driverId": "antonelli",
+                "constructorId": "mercedes",
+                "predicted_position": 3.1988518737,
+                "predicted_rank": 1
+            },
+            {
+                "driverId": "russell",
+                "constructorId": "mercedes",
+                "predicted_position": 5.9725288884,
+                "predicted_rank": 2
+            },
+            {
+                "driverId": "hamilton",
+                "constructorId": "ferrari",
+                "predicted_position": 6.1831031716,
+                "predicted_rank": 3
+            },
+            {
+                "driverId": "max_verstappen",
+                "constructorId": "red_bull",
+                "predicted_position": 6.3092716401,
+                "predicted_rank": 4
+            },
+            {
+                "driverId": "norris",
+                "constructorId": "mclaren",
+                "predicted_position": 6.3248429898,
+                "predicted_rank": 5
+            },
+            {
+                "driverId": "leclerc",
+                "constructorId": "ferrari",
+                "predicted_position": 6.8347580747,
+                "predicted_rank": 6
+            },
+            {
+                "driverId": "hadjar",
+                "constructorId": "red_bull",
+                "predicted_position": 7.8942825847,
+                "predicted_rank": 7
+            },
+            {
+                "driverId": "piastri",
+                "constructorId": "mclaren",
+                "predicted_position": 8.3829373957,
+                "predicted_rank": 8
+            },
+            {
+                "driverId": "lawson",
+                "constructorId": "rb",
+                "predicted_position": 9.6322289746,
+                "predicted_rank": 9
+            },
+            {
+                "driverId": "arvid_lindblad",
+                "constructorId": "rb",
+                "predicted_position": 12.3858815403,
+                "predicted_rank": 10
+            },
+            {
+                "driverId": "hulkenberg",
+                "constructorId": "audi",
+                "predicted_position": 12.4747535444,
+                "predicted_rank": 11
+            },
+            {
+                "driverId": "bearman",
+                "constructorId": "haas",
+                "predicted_position": 12.8400154568,
+                "predicted_rank": 12
+            },
+            {
+                "driverId": "colapinto",
+                "constructorId": "alpine",
+                "predicted_position": 12.9260609104,
+                "predicted_rank": 13
+            },
+            {
+                "driverId": "gasly",
+                "constructorId": "alpine",
+                "predicted_position": 12.999471895,
+                "predicted_rank": 14
+            },
+            {
+                "driverId": "alonso",
+                "constructorId": "aston_martin",
+                "predicted_position": 13.3181119092,
+                "predicted_rank": 15
+            },
+            {
+                "driverId": "albon",
+                "constructorId": "williams",
+                "predicted_position": 13.7110886006,
+                "predicted_rank": 16
+            },
+            {
+                "driverId": "rafael_camara",
+                "constructorId": "haas",
+                "predicted_position": 13.8733143772,
+                "predicted_rank": 17
+            },
+            {
+                "driverId": "sainz",
+                "constructorId": "williams",
+                "predicted_position": 14.296932327,
+                "predicted_rank": 18
+            },
+            {
+                "driverId": "bortoleto",
+                "constructorId": "audi",
+                "predicted_position": 15.6514790618,
+                "predicted_rank": 19
+            },
+            {
+                "driverId": "stroll",
+                "constructorId": "aston_martin",
+                "predicted_position": 15.9605249274,
+                "predicted_rank": 20
+            },
+            {
+                "driverId": "bottas",
+                "constructorId": "cadillac",
+                "predicted_position": 16.57496531,
+                "predicted_rank": 21
+            },
+            {
+                "driverId": "perez",
+                "constructorId": "cadillac",
+                "predicted_position": 17.8503161488,
+                "predicted_rank": 22
+            }
+        ],
+        "actual_results": [
+            {
+                "driverId": "max_verstappen",
+                "constructorId": "red_bull",
+                "grid": "1",
+                "positionOrder": 1
+            },
+            {
+                "driverId": "norris",
+                "constructorId": "mclaren",
+                "grid": "3",
+                "positionOrder": 2
+            },
+            {
+                "driverId": "piastri",
+                "constructorId": "mclaren",
+                "grid": "17",
+                "positionOrder": 3
+            },
+            {
+                "driverId": "antonelli",
+                "constructorId": "mercedes",
+                "grid": "6",
+                "positionOrder": 4
+            },
+            {
+                "driverId": "gasly",
+                "constructorId": "alpine",
+                "grid": "8",
+                "positionOrder": 5
+            },
+            {
+                "driverId": "colapinto",
+                "constructorId": "alpine",
+                "grid": "9",
+                "positionOrder": 6
+            },
+            {
+                "driverId": "hamilton",
+                "constructorId": "ferrari",
+                "grid": "11",
+                "positionOrder": 7
+            },
+            {
+                "driverId": "sainz",
+                "constructorId": "williams",
+                "grid": "20",
+                "positionOrder": 8
+            },
+            {
+                "driverId": "russell",
+                "constructorId": "mercedes",
+                "grid": "2",
+                "positionOrder": 9
+            },
+            {
+                "driverId": "leclerc",
+                "constructorId": "ferrari",
+                "grid": "10",
+                "positionOrder": 10
+            },
+            {
+                "driverId": "hulkenberg",
+                "constructorId": "audi",
+                "grid": "12",
+                "positionOrder": 11
+            },
+            {
+                "driverId": "bortoleto",
+                "constructorId": "audi",
+                "grid": "13",
+                "positionOrder": 12
+            },
+            {
+                "driverId": "bearman",
+                "constructorId": "haas",
+                "grid": "22",
+                "positionOrder": 13
+            },
+            {
+                "driverId": "lawson",
+                "constructorId": "rb",
+                "grid": "7",
+                "positionOrder": 14
+            },
+            {
+                "driverId": "hadjar",
+                "constructorId": "red_bull",
+                "grid": "4",
+                "positionOrder": 15
+            },
+            {
+                "driverId": "rafael_camara",
+                "constructorId": "haas",
+                "grid": "15",
+                "positionOrder": 16
+            },
+            {
+                "driverId": "stroll",
+                "constructorId": "aston_martin",
+                "grid": "21",
+                "positionOrder": 17
+            },
+            {
+                "driverId": "bottas",
+                "constructorId": "cadillac",
+                "grid": "19",
+                "positionOrder": 18
+            },
+            {
+                "driverId": "alonso",
+                "constructorId": "aston_martin",
+                "grid": "18",
+                "positionOrder": 19
+            },
+            {
+                "driverId": "arvid_lindblad",
+                "constructorId": "rb",
+                "grid": "5",
+                "positionOrder": 20
+            },
+            {
+                "driverId": "perez",
+                "constructorId": "cadillac",
+                "grid": "16",
+                "positionOrder": 21
+            },
+            {
+                "driverId": "albon",
+                "constructorId": "williams",
+                "grid": "14",
+                "positionOrder": 22
+            }
+        ]
+    },
+    "upcoming_race": {
+        "race_name": "Qatar Grand Prix",
+        "year": 2026,
+        "round": 22,
+        "date": "2026-11-29T00:00:00+00:00",
+        "predictions": [
+            {
+                "driverId": "antonelli",
+                "constructorId": "mercedes",
+                "predicted_position": 4.072843191,
+                "predicted_rank": 1
+            },
+            {
+                "driverId": "russell",
+                "constructorId": "mercedes",
+                "predicted_position": 5.6931731296,
+                "predicted_rank": 2
+            },
+            {
+                "driverId": "max_verstappen",
+                "constructorId": "red_bull",
+                "predicted_position": 5.8687781251,
+                "predicted_rank": 3
+            },
+            {
+                "driverId": "norris",
+                "constructorId": "mclaren",
+                "predicted_position": 6.142507573,
+                "predicted_rank": 4
+            },
+            {
+                "driverId": "hamilton",
+                "constructorId": "ferrari",
+                "predicted_position": 6.855486602,
+                "predicted_rank": 5
+            },
+            {
+                "driverId": "leclerc",
+                "constructorId": "ferrari",
+                "predicted_position": 7.031333352,
+                "predicted_rank": 6
+            },
+            {
+                "driverId": "piastri",
+                "constructorId": "mclaren",
+                "predicted_position": 7.8045264192,
+                "predicted_rank": 7
+            },
+            {
+                "driverId": "hadjar",
+                "constructorId": "red_bull",
+                "predicted_position": 8.1884431272,
+                "predicted_rank": 8
+            },
+            {
+                "driverId": "lawson",
+                "constructorId": "rb",
+                "predicted_position": 10.7184288124,
+                "predicted_rank": 9
+            },
+            {
+                "driverId": "arvid_lindblad",
+                "constructorId": "rb",
+                "predicted_position": 11.2028696095,
+                "predicted_rank": 10
+            },
+            {
+                "driverId": "gasly",
+                "constructorId": "alpine",
+                "predicted_position": 11.7465102663,
+                "predicted_rank": 11
+            },
+            {
+                "driverId": "colapinto",
+                "constructorId": "alpine",
+                "predicted_position": 11.901567445,
+                "predicted_rank": 12
+            },
+            {
+                "driverId": "hulkenberg",
+                "constructorId": "audi",
+                "predicted_position": 13.3839253023,
+                "predicted_rank": 13
+            },
+            {
+                "driverId": "bortoleto",
+                "constructorId": "audi",
+                "predicted_position": 13.5985400916,
+                "predicted_rank": 14
+            },
+            {
+                "driverId": "sainz",
+                "constructorId": "williams",
+                "predicted_position": 13.8960046263,
+                "predicted_rank": 15
+            },
+            {
+                "driverId": "rafael_camara",
+                "constructorId": "haas",
+                "predicted_position": 14.5509648808,
+                "predicted_rank": 16
+            },
+            {
+                "driverId": "albon",
+                "constructorId": "williams",
+                "predicted_position": 15.0621181328,
+                "predicted_rank": 17
+            },
+            {
+                "driverId": "bearman",
+                "constructorId": "haas",
+                "predicted_position": 15.28191499,
+                "predicted_rank": 18
+            },
+            {
+                "driverId": "perez",
+                "constructorId": "cadillac",
+                "predicted_position": 16.0599744367,
+                "predicted_rank": 19
+            },
+            {
+                "driverId": "alonso",
+                "constructorId": "aston_martin",
+                "predicted_position": 16.2203500364,
+                "predicted_rank": 20
+            },
+            {
+                "driverId": "bottas",
+                "constructorId": "cadillac",
+                "predicted_position": 16.7456042955,
+                "predicted_rank": 21
+            },
+            {
+                "driverId": "stroll",
+                "constructorId": "aston_martin",
+                "predicted_position": 17.1788363156,
+                "predicted_rank": 22
+            }
+        ]
+    }
+}
